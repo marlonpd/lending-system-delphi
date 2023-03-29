@@ -1,0 +1,2 @@
+inherited fraReportInterestIncome: TfraReportInterestIncome
+end

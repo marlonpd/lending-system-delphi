@@ -1,0 +1,2 @@
+inherited fraLoanReceivables: TfraLoanReceivables
+end
